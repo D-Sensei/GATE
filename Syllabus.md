@@ -1,10 +1,10 @@
-**Verbal Aptitude	**
+**Verbal Aptitude**
 English grammar
 Vocabularies
 Reading and comprehension
 Narrative sequencing
 
-**Quantitative Aptitude	**
+**Quantitative Aptitude**
 Data interpretation
 2 & 3-dimensional plots
 Maps & tables
@@ -13,23 +13,23 @@ Permutations & combinations
 Mensuration & geometry
 Elementary statistics & probability
 
-**Analytical Aptitude	**
+**Analytical Aptitude**
 Logic: Deduction & induction Analogy
 Numerical relations & reasoning
 
-**Spatial Aptitude	**
+**Spatial Aptitude**
 Transformation of shapes like translation, mirroring , rotation & scaling
 Assembling & grouping
 Paper folding, cutting, and patterns (2 & 3 dimensions)
 
-**Linear Algebra	**
+**Linear Algebra**
 Matrices
 Determinants
 System of linear equations
 Eigenvalues and eigenvectors,
 LU decomposition
 
-**Calculus	**
+**Calculus**
 Limits
 Continuity and differentiability
 Maxima and minima
@@ -108,7 +108,7 @@ Parsing
 Syntax-directed translation
 Runtime environments
 Intermediate code generation
-Local optimizatio
+Local optimization
 Data flow analyses: constant propagation, liveness analysis, common subexpression elimination
 
 **Operating System**	
