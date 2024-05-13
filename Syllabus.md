@@ -1,3 +1,5 @@
+| Subject | Syllabus |
+|----|----|
 | **Verbal Aptitude** | English grammar, Vocabularies, Reading and comprehension, Narrative sequencing |
 | **Quantitative Aptitude** | Data interpretation, 2 & 3-dimensional plots, Maps & tables, Numerical computation & estimation (ratios, percentages, powers, exponents & logarithms), Permutations & combinations, Mensuration & geometry, Elementary statistics & probability |
 | **Analytical Aptitude** | Logic: Deduction & induction, Analogy, Numerical relations & reasoning |
