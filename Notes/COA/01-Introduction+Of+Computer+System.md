@@ -23,5 +23,21 @@ Answer : _1 and 2_
 
 **Data format**
 1. The computer devices uses binary data format which means it takes input as well give output in binary format.
-2. Doesn't matter what type of data we include computer have a binary value assigned to it
-3. 
+2. Doesn't matter what type of data we write computer have a binary value assigned to it
+3. _Data Format_ is binary representation of data value.
+
+
+## Data
+**Types of Data**
+- Numbers
+  - **Fixed point**
+    - Unsigned Representation
+      - Example: 5 as 101, 12 as 1100
+    - Signed Representation
+      1. Sign Magitude (arithmetic numbers)
+      2. 1's Complement 
+      3. 2's Complement
+  - **Floating point**
+-  Characters
+  - ASCII code (American Standard Code for Information Interchange)
+  - EBCDIC (Extended Binary Change Decimal Interchange Code )-> decimal to binary
