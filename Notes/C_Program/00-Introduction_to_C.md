@@ -58,7 +58,7 @@ C is a general-purpose, procedural programming language that was developed in th
 
 ____
 ## Additional Detail in form of Questions
-1. ### How many Low Level languages are present ?
+### How many Low Level languages are present ?
 Low-level programming languages can be broadly categorized into two main types: **Machine Language** and **Assembly Language**. Here’s a brief overview of these categories:
 
 1. **Machine Language**:
@@ -87,7 +87,8 @@ In addition to general-purpose assembly languages, there are also specialized lo
 #### Historical Low-Level Languages
 Over the history of computing, various low-level languages were developed for early computers and mainframes, many of which are now obsolete but were crucial during their time.
 
-2. ### How many high level languages are present
+___
+### How many high level languages are present
 High-level programming languages (HLLs) are numerous and diverse, each designed to serve different types of applications, development environments, and programming paradigms. Here is an overview of some of the major categories and examples of high-level languages:
 
 #### 1. **General-Purpose Languages**
