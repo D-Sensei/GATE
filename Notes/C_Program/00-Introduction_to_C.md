@@ -56,7 +56,7 @@ C is a general-purpose, procedural programming language that was developed in th
 - **Efficiency**: C code is efficient and can be optimized for speed and performance.
 - **Flexibility**: C is a versatile language that can be used for a wide range of applications, from system programming to game development.
 
-
+____
 ## Additional Detail in form of Questions
 ### How many Low Level languages are present ?
 Low-level programming languages can be broadly categorized into two main types: **Machine Language** and **Assembly Language**. Here’s a brief overview of these categories:
@@ -86,4 +86,102 @@ In addition to general-purpose assembly languages, there are also specialized lo
 
 #### Historical Low-Level Languages
 Over the history of computing, various low-level languages were developed for early computers and mainframes, many of which are now obsolete but were crucial during their time.
+___
+### How many high level languages are present
+High-level programming languages (HLLs) are numerous and diverse, each designed to serve different types of applications, development environments, and programming paradigms. Here is an overview of some of the major categories and examples of high-level languages:
+
+#### 1. **General-Purpose Languages**
+These languages are designed to be versatile and suitable for a wide range of applications.
+
+- **C**
+- **C++**
+- **Java**
+- **Python**
+- **Ruby**
+- **Perl**
+
+#### 2. **Scripting Languages**
+These are typically used for automating tasks, scripting web servers, and developing quick programs.
+
+- **JavaScript**
+- **PHP**
+- **Python**
+- **Ruby**
+- **Lua**
+
+#### 3. **Functional Languages**
+Functional programming languages emphasize the use of functions and immutability.
+
+- **Haskell**
+- **Erlang**
+- **Lisp**
+- **Scheme**
+- **F#**
+
+#### 4. **Object-Oriented Languages**
+These languages are based on the concept of "objects", which can contain data and code.
+
+- **Java**
+- **C++**
+- **C#**
+- **Python**
+- **Ruby**
+
+#### 5. **Procedural Languages**
+Procedural languages are based on the concept of procedure calls and are used for sequential logic.
+
+- **C**
+- **Pascal**
+- **Fortran**
+- **Ada**
+
+#### 6. **Domain-Specific Languages**
+These languages are designed for specific fields or industries.
+
+- **SQL** (for database querying)
+- **HTML/CSS** (for web development)
+- **MATLAB** (for mathematical computing)
+- **R** (for statistical analysis)
+- **Verilog/VHDL** (for hardware description)
+
+#### 7. **Systems Programming Languages**
+These languages are typically used for system software such as operating systems, drivers, and embedded systems.
+
+- **C**
+- **Rust**
+- **Go**
+- **Ada**
+
+#### 8. **Markup and Style Sheet Languages**
+These are used for formatting and presenting data, mainly on the web.
+
+- **HTML**
+- **XML**
+- **CSS**
+
+#### 9. **Educational Languages**
+These languages are designed to introduce programming concepts and are often used in educational settings.
+
+- **Scratch**
+- **Logo**
+- **Alice**
+
+#### 10. **Concurrent Languages**
+These languages are designed for concurrent and parallel computing.
+
+- **Erlang**
+- **Go**
+- **Rust**
+
+#### 11. **Logic Programming Languages**
+These languages are based on formal logic and are used for problems involving symbolic reasoning.
+
+- **Prolog**
+- **Datalog**
+
+#### Notable Mentions
+- **Swift**: Developed by Apple for iOS and macOS applications.
+- **Kotlin**: Developed by JetBrains, officially supported for Android development.
+- **Scala**: A language that combines functional and object-oriented programming paradigms.
+- **TypeScript**: A superset of JavaScript that adds static types, developed by Microsoft.
 
