@@ -57,8 +57,8 @@ C is a general-purpose, procedural programming language that was developed in th
 - **Flexibility**: C is a versatile language that can be used for a wide range of applications, from system programming to game development.
 
 
-
-### How many Low Level languages are present
+## Additional Detail in form of Questions
+### How many Low Level languages are present ?
 Low-level programming languages can be broadly categorized into two main types: **Machine Language** and **Assembly Language**. Here’s a brief overview of these categories:
 
 1. **Machine Language**:
@@ -70,22 +70,20 @@ Low-level programming languages can be broadly categorized into two main types: 
    - Each assembly language is specific to a particular computer architecture, providing a one-to-one correspondence with machine instructions but in a more human-readable form.
    - An assembler is used to convert assembly language code into machine code.
 
-### Examples of Assembly Languages
+#### Examples of Assembly Languages
 - **x86 Assembly**: Used for Intel and AMD processors.
 - **ARM Assembly**: Used for ARM processors, common in mobile devices.
 - **MIPS Assembly**: Used in MIPS processors, often found in embedded systems.
 - **SPARC Assembly**: Used for SPARC processors, developed by Sun Microsystems.
 - **PowerPC Assembly**: Used for PowerPC processors, developed by IBM, Apple, and Motorola.
 
-### Specialized Low-Level Languages
+#### Specialized Low-Level Languages
 In addition to general-purpose assembly languages, there are also specialized low-level languages tailored for specific hardware or application areas. Some examples include:
 
 - **Microcontroller-specific assembly languages**: Such as those for the PIC, AVR, and other microcontroller families.
 - **Digital Signal Processor (DSP) assembly languages**: Used in signal processing hardware.
 - **Graphics Processing Unit (GPU) assembly languages**: Low-level languages designed for programming GPUs.
 
-### Historical Low-Level Languages
+#### Historical Low-Level Languages
 Over the history of computing, various low-level languages were developed for early computers and mainframes, many of which are now obsolete but were crucial during their time.
 
-### Conclusion
-In summary, while the primary low-level languages are machine language and assembly language, the specific implementations and variations of assembly languages are numerous, each tailored to different CPU architectures and hardware platforms. This diversity is necessary because each type of processor has its own unique set of instructions and operational characteristics.
